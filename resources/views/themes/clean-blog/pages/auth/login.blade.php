@@ -8,9 +8,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
-                        <h1>Vuedo Deluxe</h1>
+                        <h1>Mubiu Blog... Biu biu biu biu ....</h1>
                         <hr class="small">
-                        <span class="subheading">A Clean Blog Theme by Start Bootstrap</span>
+                        <span class="subheading">生活就是一桶木头屑。 -- 海绵宝宝</span>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                 <button type="submit" class="btn btn-default">
                   <i class="fa fa-btn fa-sign-in"></i> Login
                 </button>
-                  <a class="btn btn-link" href="{{ url('/password/reset') }}">Forgot Your Password?</a>
+                  {{--<a class="btn btn-link" href="{{ url('/password/reset') }}">Forgot Your Password?</a>--}}
             </div>
         </div>
 

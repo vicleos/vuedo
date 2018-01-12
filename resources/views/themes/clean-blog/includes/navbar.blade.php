@@ -7,7 +7,7 @@
                 <span class="sr-only">Toggle navigation</span>
                 Menu <i class="fa fa-bars"></i>
             </button>
-            <a class="navbar-brand" href="{{route('web.home')}}">Vuedo</a>
+            <a class="navbar-brand" href="{{route('web.home')}}">Mubiu</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
