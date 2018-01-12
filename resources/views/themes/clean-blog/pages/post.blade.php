@@ -1,7 +1,8 @@
 @extends('themes.clean-blog.layouts.default')
 
 @section('header')
-    <header class="intro-header" style="background-image: url({{ $post->image_url or 'http://lorempixel.com/400/200'}})">
+    <header class="intro-header" style="background-image: url({{ $post->image_url or 'http://temp.im/400x200'}})">
+        {{--<header class="intro-header" style="background-image: url({{ $post->image_url or 'http://lorempixel.com/400/200'}})">--}}
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
