@@ -37,7 +37,7 @@
 {{-- jQuery --}}
 <script src="/lte/js/jQuery-2.2.0.min.js"></script>
 {{-- pnotify --}}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.0.0/pnotify.j"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pnotify/3.0.0/pnotify.js"></script>
 <script src="/js/pnotify.buttons.js"></script>
 {{-- Sweetalert --}}
 <script src="https://cdn.bootcss.com/limonte-sweetalert2/4.0.5/sweetalert2.min.js"></script>
